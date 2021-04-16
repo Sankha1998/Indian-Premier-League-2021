@@ -1,0 +1,37 @@
+matchno,over no,ing,perballscore,runsbybatsman,extraruns,total run scored,noofwicketsfall,batsman1,batsman1runs,batsman1playedballs,batsman2,batsman2runs,batsman2playedballs,bowler,matchscore
+8,1,1st,0 1 0 W 0 1,2,0,2,1,Chris Gayle,1,2,KL Rahul,1,2,Deepak Chahar,2 - 1
+8,2,1st,1 0 0 0 4 0,5,0,5,0,Chris Gayle,2,3,KL Rahul,5,7,Sam Curran,7 - 1
+8,3,1st,4 4 0 0 W Wd 1,9,1,10,1,Chris Gayle,10,8,Deepak Hooda,1,1,Deepak Chahar,17 - 2
+8,4,1st,0 0 0 0 1 0,1,0,1,0,Chris Gayle,10,9,Deepak Hooda,2,6,Sam Curran,18 - 2
+8,5,1st,1 W 0 W 0 0,1,0,1,2,Shahrukh Khan,0,2,Deepak Hooda,3,7,Deepak Chahar,19 - 4
+8,6,1st,0 4 2 0 0 1,7,0,7,0,Shahrukh Khan,0,2,Deepak Hooda,10,13,Shardul Thakur,26 - 4
+8,7,1st,0 W 0 0 0 0,0,0,0,1,Shahrukh Khan,0,2,Jhye Richardson,0,4,Deepak Chahar,26 - 5
+8,8,1st,0 0 1 1 0 6,8,0,8,0,Shahrukh Khan,7,7,Jhye Richardson,1,5,Ravindra Jadeja,34 - 5
+8,9,1st,4 1 1 1 0 4,11,0,11,0,Shahrukh Khan,12,10,Jhye Richardson,7,8,Shardul Thakur,45 - 5
+8,10,1st,0 0 1 0 1 Wd 0,2,1,3,0,Shahrukh Khan,13,12,Jhye Richardson,8,12,Ravindra Jadeja,48 - 5
+8,11,1st,0 1 1 1 0 1,4,0,4,0,Shahrukh Khan,15,15,Jhye Richardson,10,15,Moeen Ali,52 - 5
+8,12,1st,0 0 0 4 0 1,5,0,5,0,Shahrukh Khan,15,15,Jhye Richardson,15,21,Ravindra Jadeja,57 - 5
+8,13,1st,W 1 1 1 0 1,4,0,4,1,Shahrukh Khan,17,18,Murugan Ashwin,2,2,Moeen Ali,61 - 6
+8,14,1st,1 0 1 1 0 0,3,0,3,0,Shahrukh Khan,19,20,Murugan Ashwin,3,6,Ravindra Jadeja,64 - 6
+8,15,1st,6 1 1 1 0 0,9,0,9,0,Shahrukh Khan,27,23,Murugan Ashwin,4,9,Moeen Ali,73 - 6
+8,16,1st,2 4 1 0 0 1,8,0,8,0,Shahrukh Khan,34,26,Murugan Ashwin,5,12,Shardul Thakur,81 - 6
+8,17,1st,0 4 1 W 0,5,0,5,1,Shahrukh Khan,39,29,Mohammed Shami,0,1,Dwayne Bravo,87 - 7
+8,18,1st,Wd 1 1 0 0 2 4,8,1,9,0,Shahrukh Khan,46,34,Mohammed Shami,1,2,Shardul Thakur,96 - 7
+8,19,1st,1 1 0 0 2 0,4,0,4,0,Shahrukh Khan,47,35,Mohammed Shami,4,7,Dwayne Bravo,100 - 7
+8,20,1st,Wd W 0 2 2 0 1,5,1,6,1,Riley Meredith,0,0,Mohammed Shami,9,12,Sam Curran,106 - 8
+8,1,2nd,1 0 1 0 0 0,2,0,2,0,Ruturaj Gaikwad,1,4,Faf du Plessis,1,2,Mohammed Shami,2 - 0
+8,2,2nd,L1 0 0 1 0 0,1,1,2,0,Ruturaj Gaikwad,2,7,Faf du Plessis,1,5,Jhye Richardson,4 - 0
+8,3,2nd,0 0 1 1 1 1,4,0,4,0,Ruturaj Gaikwad,4,11,Faf du Plessis,3,7,Mohammed Shami,8 - 0
+8,4,2nd,0 4 0 L4 0 6,10,4,14,0,Ruturaj Gaikwad,4,11,Faf du Plessis,13,13,Jhye Richardson,22 - 0
+8,5,2nd,0 1 1 0 0 W,2,0,2,1,Ruturaj Gaikwad,5,16,Faf du Plessis,14,14,Arshdeep Singh,24 - 1
+8,6,2nd,0 4 0 0 0 4,8,0,8,0,Moeen Ali,8,6,Faf du Plessis,14,14,Riley Meredith,32 - 1
+8,7,2nd,0 0 1 0 0 4,5,0,5,0,Moeen Ali,12,9,Faf du Plessis,15,17,Arshdeep Singh,37 - 1
+8,8,2nd,1 4 0 2 1 2,10,0,10,0,Moeen Ali,19,13,Faf du Plessis,18,19,Murugan Ashwin,47 - 1
+8,9,2nd,4 0 1 0 1 0,6,0,6,0,Moeen Ali,24,17,Faf du Plessis,19,21,Riley Meredith,53 - 1
+8,10,2nd,4 1 Wd 2 0 2 1,10,1,11,0,Moeen Ali,29,21,Faf du Plessis,24,23,Murugan Ashwin,64 - 1
+8,11,2nd,0 4 0 2 0 4,10,0,10,0,Moeen Ali,39,27,Faf du Plessis,24,23,Mohammed Shami,74 - 1
+8,12,2nd,0 0 4 4 1 1,10,0,10,0,Moeen Ali,40,28,Faf du Plessis,33,28,Jhye Richardson,84 - 1
+8,13,2nd,6 0 W 0 4 1,11,0,11,1,Suresh Raina,5,3,Faf du Plessis,33,28,Murugan Ashwin,95 - 2
+8,14,2nd,Wd 0 0 0 1 0 0,1,1,2,0,Suresh Raina,6,7,Faf du Plessis,33,30,Riley Meredith,97 - 2
+8,15,2nd,2 W W 1 1 1,5,0,5,2,Sam Curran,1,1,Faf du Plessis,35,32,Mohammed Shami,102 - 4
+8,16,2nd,1 0 0 4,5,0,5,0,Sam Curran,5,4,Faf du Plessis,36,33,Riley Meredith,107 - 4
