@@ -1,13 +1,13 @@
 slno,match no,date,stadium,city,team1,team2,team1 captain,team2 captain,toss,decision,1st ing total,2nd ing total,win,mom,team,country
-1,1,09.04.2021,MA Chidambaram Stadium,Chennai,MI,RCB,Rohit Sharma,Virat Kohli,RCB,bowling,159-9,160-8,RCB,Harshal Patel,RCB,IND
-2,2,10.04.2021,Wankhede Stadium,Mumbai,CSK,DC,MS Dhoni,Rishabh Pant,DC,bowling,188-7,190-3,DC,Shikhar Dhawan,DC,IND
-3,3,11.04.2021,MA Chidambaram Stadium,Chennai,KKR,SRH,Eoin Morgan,David Warner,SRH,bowling,187 - 6,177 -  5,KKR,Nitish Rana,KKR,IND
-4,4,12.04.2021,Wankhede Stadium,Mumbai,PBKS,RR,KL Rahul,Sanju Samson,RR,bowling,221 - 6,217 - 7,PBKS,Sanju Samson,RR,IND
-5,5,13.04.2021,MA Chidambaram Stadium,Chennai,KKR,MI,Eoin Morgan,Rohit Sharma,KKR,bowling,152 - 10,142 - 7,MI,Rahul Chahar,MI,IND
-6,6,14.04.2021,MA Chidambaram Stadium,Chennai,RCB,SRH,Virat Kohli,David Warner,SRH,bowling,149 - 8,143 - 9,RCB,Glenn Maxwell,RCB,AUS
-7,7,15.04.2021,Wankhede Stadium,Mumbai,DC,RR,Rishabh Pant,Sanju Samson,RR,bowling,147-8,150 - 7,RR,Jaydev Unadkat,RR,IND
-8,8,16.04.2021,Wankhede Stadium,Mumbai,CSK,PBKS,MS Dhoni,KL Rahul,CSK,bowling,106 - 8,107 - 4,CSK,Deepak Chahar,CSK,IND
-9,,,,,,,,,,,,,,,,
+1,1,09.04.2021,MA Chidambaram Stadium,Chennai,MI,RCB,Rohit Sharma,Virat Kohli,RCB,Bowling,159-9,160-8,RCB,Harshal Patel,RCB,IND
+2,2,10.04.2021,Wankhede Stadium,Mumbai,CSK,DC,MS Dhoni,Rishabh Pant,DC,Bowling,188-7,190-3,DC,Shikhar Dhawan,DC,IND
+3,3,11.04.2021,MA Chidambaram Stadium,Chennai,KKR,SRH,Eoin Morgan,David Warner,SRH,Bowling,187 - 6,177 -  5,KKR,Nitish Rana,KKR,IND
+4,4,12.04.2021,Wankhede Stadium,Mumbai,PBKS,RR,KL Rahul,Sanju Samson,RR,Bowling,221 - 6,217 - 7,PBKS,Sanju Samson,RR,IND
+5,5,13.04.2021,MA Chidambaram Stadium,Chennai,KKR,MI,Eoin Morgan,Rohit Sharma,KKR,Bowling,152 - 10,142 - 7,MI,Rahul Chahar,MI,IND
+6,6,14.04.2021,MA Chidambaram Stadium,Chennai,RCB,SRH,Virat Kohli,David Warner,SRH,Bowling,149 - 8,143 - 9,RCB,Glenn Maxwell,RCB,AUS
+7,7,15.04.2021,Wankhede Stadium,Mumbai,DC,RR,Rishabh Pant,Sanju Samson,RR,Bowling,147-8,150 - 7,RR,Jaydev Unadkat,RR,IND
+8,8,16.04.2021,Wankhede Stadium,Mumbai,CSK,PBKS,MS Dhoni,KL Rahul,CSK,Bowling,106 - 8,107 - 4,CSK,Deepak Chahar,CSK,IND
+9,9,17.04.2021,MA Chidambaram Stadium,Chennai,SRH,MI,David Warner,Rohit Sharma,MI,Batting,150 - 5,137 - 10,MI,Kieron Pollard,MI,WI
 10,,,,,,,,,,,,,,,,
 11,,,,,,,,,,,,,,,,
 12,,,,,,,,,,,,,,,,

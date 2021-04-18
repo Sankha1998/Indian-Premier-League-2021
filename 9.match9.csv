@@ -1,0 +1,41 @@
+matchno,over no,ing,perballscore,runsbybatsman,extraruns,total run scored,noofwicketsfall,batsman1,batsman1runs,batsman1playedballs,batsman2,batsman2runs,batsman2playedballs,bowler,matchscore
+9,1,1st,4 0 0 0 4 0,8,0,8,0,Quinton de Kock,8,6,Rohit Sharma,0,0,Bhuvneshwar Kumar,8 - 0
+9,2,1st,1 N1 L4 0 0 1 0,3,5,8,0,Quinton de Kock,9,8,Rohit Sharma,2,5,Khaleel Ahmed,16 - 0
+9,3,1st,1 0 1 4 6 1,13,0,13,0,Quinton de Kock,10,10,Rohit Sharma,14,9,Mujeeb Ur Rahman,29 - 0
+9,4,1st,0 1 1 0 6 1,9,0,9,0,Quinton de Kock,11,11,Rohit Sharma,22,14,Bhuvneshwar Kumar,38 - 0
+9,5,1st,0 0 4 Wd 0 1 4,9,1,10,0,Quinton de Kock,15,12,Rohit Sharma,27,19,Khaleel Ahmed,48 - 0
+9,6,1st,0 1 1 2 1 0,5,0,5,0,Quinton de Kock,16,14,Rohit Sharma,31,23,Abhishek Sharma,53 - 0
+9,7,1st,1 1 W 0 4 0,6,0,6,1,Quinton de Kock,17,15,Suryakumar Yadav,4,3,Vijay Shankar,59 - 1
+9,8,1st,0 0 0 4 1 0,5,0,5,0,Quinton de Kock,22,20,Suryakumar Yadav,4,4,Rashid Khan,64 - 1
+9,9,1st,1 6 W 1 0 0,8,0,8,1,Quinton de Kock,23,23,Ishan Kishan,1,1,Vijay Shankar,72 - 2
+9,10,1st,0 0 0 1 1 1,3,0,3,0,Quinton de Kock,24,24,Ishan Kishan,3,6,Rashid Khan,75 - 2
+9,11,1st,0 1 0 Wd 1 L1 1,3,2,5,0,Quinton de Kock,26,27,Ishan Kishan,4,9,Mujeeb Ur Rahman,80 - 2
+9,12,1st,2 1 1 4 1 0,9,0,9,0,Quinton de Kock,34,31,Ishan Kishan,5,11,Rashid Khan,89 - 2
+9,13,1st,2 0 1 1 0 1,5,0,5,0,Quinton de Kock,38,36,Ishan Kishan,6,12,Vijay Shankar,94 - 2
+9,14,1st,1 1 1 1 W 0,4,0,4,1,Kieron Pollard,0,0,Ishan Kishan,8,15,Mujeeb Ur Rahman,98 - 3
+9,15,1st,1 1 0 0 0 1,3,0,3,0,Kieron Pollard,2,5,Ishan Kishan,9,16,Khaleel Ahmed,101 - 3
+9,16,1st,1 2 0 1 0 Wd L1,4,2,6,0,Kieron Pollard,3,8,Ishan Kishan,12,19,Rashid Khan,107 - 3
+9,17,1st,6 0 1 0 W Wd 0,7,1,8,1,Kieron Pollard,10,11,Hardik Pandya,0,1,Mujeeb Ur Rahman,115 - 4
+9,18,1st,1 4 2 1 2 1,11,0,11,0,Kieron Pollard,14,14,Hardik Pandya,7,4,Bhuvneshwar Kumar,126 - 4
+9,19,1st,4 0 1 W 1 1,7,0,7,1,Kieron Pollard,20,18,Krunal Pandya,1,1,Khaleel Ahmed,133 - 5
+9,20,1st,1 1 1 2 6 6,17,0,17,0,Kieron Pollard,35,22,Krunal Pandya,3,3,Bhuvneshwar Kumar,150 - 5
+9,1,2nd,0 0 0 0 0 2,2,0,2,0,David Warner,2,6,Jonny Bairstow,0,0,Trent Boult,2 - 0
+9,2,2nd,0 1 0 1 1 0,3,0,3,0,David Warner,3,9,Jonny Bairstow,2,3,Jasprit Bumrah,5 - 0
+9,3,2nd,4 4 6 4 0 0,18,0,18,0,David Warner,3,9,Jonny Bairstow,20,9,Trent Boult,23 - 0
+9,4,2nd,4 0 1 6 6 Wd 1,18,1,19,0,David Warner,8,12,Jonny Bairstow,33,12,Adam Milne,42 - 0
+9,5,2nd,0 6 1 2 0 4,13,0,13,0,David Warner,14,15,Jonny Bairstow,40,15,Krunal Pandya,55 - 0
+9,6,2nd,1 0 0 1 0 0,2,0,2,0,David Warner,15,18,Jonny Bairstow,41,18,Jasprit Bumrah,57 - 0
+9,7,2nd,0 1 1 6 1 1,10,0,10,0,David Warner,23,22,Jonny Bairstow,43,20,Adam Milne,67 - 0
+9,8,2nd,0 W 0 0 1 0,1,0,1,1,David Warner,23,23,Manish Pandey,1,3,Krunal Pandya,68 - 1
+9,9,2nd,0 1 0 Wd 1 0 W,2,1,3,1,David Warner,24,25,Manish Pandey,2,7,Rahul Chahar,71 - 2
+9,10,2nd,0 0 1 1 1 0,3,0,3,0,David Warner,26,29,Virat Singh,1,2,Kieron Pollard,74 - 2
+9,11,2nd,6 1 0 1 2 L1,10,1,11,0,David Warner,35,33,Virat Singh,2,4,Rahul Chahar,85 - 2
+9,12,2nd,1 4 W 1 1 0,7,0,7,1,Vijay Shankar,1,2,Virat Singh,7,7,Kieron Pollard,92 - 3
+9,13,2nd,1 0 1 1 0 1,4,0,4,0,Vijay Shankar,3,6,Virat Singh,9,9,Rahul Chahar,96 - 3
+9,14,2nd,0 1 1 L2 1 1,4,2,6,0,Vijay Shankar,5,10,Virat Singh,11,11,Adam Milne,102 - 3
+9,15,2nd,W 0 0 2 W 0,2,0,2,2,Vijay Shankar,5,10,Abdul Samad,0,1,Rahul Chahar,104 - 5
+9,16,2nd,0 2 6 6 1 1,16,0,16,0,Vijay Shankar,20,15,Abdul Samad,1,2,Krunal Pandya,120 - 5
+9,17,2nd,0 1 0 1 1 1,4,0,4,0,Vijay Shankar,22,18,Abdul Samad,3,5,Jasprit Bumrah,124 - 5
+9,18,2nd,1 0 4 W 1 W,6,0,6,2,Vijay Shankar,24,20,Rashid Khan,0,1,Trent Boult,130 - 7
+9,19,2nd,2 0 2 0 W 1,5,0,5,1,Mujeeb Ur Rahman,0,0,Bhuvneshwar Kumar,1,1,Jasprit Bumrah,135 - 8
+9,20,2nd,W 1 1 W,2,0,2,2,Mujeeb Ur Rahman,1,0,Khaleel Ahmed,1,2,Trent Boult,137 - 10
