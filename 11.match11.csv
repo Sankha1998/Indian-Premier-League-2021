@@ -1,0 +1,41 @@
+matchno,over no,ing,perballscore,runsbybatsman,extraruns,total run scored,noofwicketsfall,batsman1,batsman1runs,batsman1playedballs,batsman2,batsman2runs,batsman2playedballs,bowler,matchscore
+11,1,1st,0 0 0 4 0 1,5,0,5,0,KL Rahul,5,6,Mayank Agarwal,0,0,Chris Woakes,5 - 0
+11,2,1st,4 1 0 N4 6 0 4,15,5,20,0,KL Rahul,10,8,Mayank Agarwal,14,5,Lukman Meriwala,25 - 0
+11,3,1st,0 0 1 4 4 L1,9,1,10,0,KL Rahul,11,11,Mayank Agarwal,22,8,Chris Woakes,35 - 0
+11,4,1st,0 2 4 1 0 1,8,0,8,0,KL Rahul,12,13,Mayank Agarwal,29,12,Lukman Meriwala,43 - 0
+11,5,1st,0 1 1 0 4 1,7,0,7,0,KL Rahul,18,18,Mayank Agarwal,30,13,Ravichandran Ashwin,50 - 0
+11,6,1st,4 0 0 L4 0 1,5,4,9,0,KL Rahul,23,24,Mayank Agarwal,30,13,Kagiso Rabada,59 - 0
+11,7,1st,1 1 0 1 1 0,4,0,4,0,KL Rahul,25,28,Mayank Agarwal,32,15,Ravichandran Ashwin,63 - 0
+11,8,1st,1 4 0 4 1 1,11,0,11,0,KL Rahul,34,32,Mayank Agarwal,34,17,Lalit Yadav,74 - 0
+11,9,1st,6 0 4 1 1 1,13,0,13,0,KL Rahul,35,33,Mayank Agarwal,46,22,Ravichandran Ashwin,87 - 0
+11,10,1st,0 0 4 2 1 0,7,0,7,0,KL Rahul,35,34,Mayank Agarwal,53,27,Avesh Khan,94 - 0
+11,11,1st,6 6 1 6 0 1,20,0,20,0,KL Rahul,42,37,Mayank Agarwal,66,30,Kagiso Rabada,114 - 0
+11,12,1st,2 1 1 1 0 1,6,0,6,0,KL Rahul,46,40,Mayank Agarwal,68,33,Avesh Khan,120 - 0
+11,13,1st,0 1 1 W 1 1,4,0,4,1,KL Rahul,48,42,Chris Gayle,1,1,Lukman Meriwala,124 - 1
+11,14,1st,1 0 1 1 1 0,4,0,4,0,KL Rahul,50,45,Chris Gayle,3,4,Ravichandran Ashwin,128 - 1
+11,15,1st,0 6 1 1 4 0,12,0,12,0,KL Rahul,61,50,Chris Gayle,4,5,Avesh Khan,140 - 1
+11,16,1st,1 W 6 2 1 0,10,0,10,1,Deepak Hooda,9,3,Chris Gayle,5,7,Kagiso Rabada,150 - 2
+11,17,1st,N1 6 W 1 1 1 1,10,2,12,1,Deepak Hooda,12,6,Nicholas Pooran,2,2,Chris Woakes,162 - 3
+11,18,1st,1 1 0 4 1 1,8,0,8,0,Deepak Hooda,14,8,Nicholas Pooran,8,6,Kagiso Rabada,170 - 3
+11,19,1st,1 1 6 L1 W 0,8,1,9,1,Deepak Hooda,21,12,Shahrukh Khan,0,0,Avesh Khan,179 - 4
+11,20,1st,4 0 4 6 1 1,16,0,16,0,Deepak Hooda,22,13,Shahrukh Khan,15,5,Chris Woakes,195 - 4
+11,1,2nd,0 2 2 1 4 1,10,0,10,0,Shikhar Dhawan,5,2,Prithvi Shaw,5,4,Arshdeep Singh,10 - 0
+11,2,2nd,0 0 1 4 0 6,11,0,11,0,Shikhar Dhawan,6,5,Prithvi Shaw,15,7,Mohammed Shami,21 - 0
+11,3,2nd,1 4 0 1 0 4,10,0,10,0,Shikhar Dhawan,11,8,Prithvi Shaw,20,10,Jalaj Saxena,31 - 0
+11,4,2nd,0 0 4 1 1 6,12,0,12,0,Shikhar Dhawan,12,9,Prithvi Shaw,31,15,Jhye Richardson,43 - 0
+11,5,2nd,4 0 0 2 4 4,14,0,14,0,Shikhar Dhawan,26,15,Prithvi Shaw,31,15,Mohammed Shami,57 - 0
+11,6,2nd,1 L1 W 1 1 1,4,1,5,1,Shikhar Dhawan,28,18,Steven Smith,1,1,Arshdeep Singh,62 - 1
+11,7,2nd,1 1 1 0 1 2,6,0,6,0,Shikhar Dhawan,32,21,Steven Smith,3,4,Deepak Hooda,68 - 1
+11,8,2nd,1 0 0 1 1 4,7,0,7,0,Shikhar Dhawan,37,25,Steven Smith,5,6,Jalaj Saxena,75- 1
+11,9,2nd,1 1 1 4 4 1,12,0,12,0,Shikhar Dhawan,47,29,Steven Smith,7,8,Deepak Hooda,87 - 1
+11,10,2nd,2 1 1 0 6 2,12,0,12,0,Shikhar Dhawan,58,34,Steven Smith,8,9,Jhye Richardson,99 - 1
+11,11,2nd,L1 1 1 4 1 W,7,1,8,1,Shikhar Dhawan,64,37,Steven Smith,9,12,Riley Meredith,107 - 2
+11,12,2nd,2 0 1 2 1 4,10,0,10,0,Shikhar Dhawan,71,41,Rishabh Pant,3,2,Jalaj Saxena,117 - 2
+11,13,2nd,0 1 6 1 0 0,8,0,8,0,Shikhar Dhawan,78,43,Rishabh Pant,4,6,Mohammed Shami,125 - 2
+11,14,2nd,4 4 4 Wd5 1 0 0,13,5,18,0,Shikhar Dhawan,91,47,Rishabh Pant,4,8,Riley Meredith,143 - 2
+11,15,2nd,1 6 Wd 0 1 W 0,8,1,9,0,Marcus Stoinis,0,1,Rishabh Pant,11,11,Jhye Richardson,152 - 3
+11,16,2nd,1 2 1 1 2 1,8,0,8,0,Marcus Stoinis,6,5,Rishabh Pant,13,13,Arshdeep Singh,160 - 3
+11,17,2nd,1 N1 4 N 6 4 1 1,18,2,20,0,Marcus Stoinis,22,11,Rishabh Pant,15,15,Mohammed Shami,180 - 3
+11,18,2nd,W 1 0 4 2 1,8,0,8,0,Marcus Stoinis,23,12,Lalit Yadav,7,4,Jhye Richardson,188 - 4
+11,19,2nd,N4 1 4,9,1,10,0,Marcus Stoinis,27,13,Lalit Yadav,12,6,Riley Meredith,198 - 4
+11,20,2nd,,,,,,,,,,,,,
